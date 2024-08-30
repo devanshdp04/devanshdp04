@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devanshdp04
+- 👋 Hi, I’m Devansh Patel
 - 👀 I’m interested in data Analysis,Visualization
 - 🌱 I’m currently learning Power BI
 - 💞️ I’m looking to collaborate on 
