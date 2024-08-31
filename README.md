@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Devansh Patel
 - 👀 I’m interested in Data Analysis,Data Visualization,Data Modelling
 - 🌱 I’m currently learning Power BI
-- 💞️ I’m looking to collaborate on creating intereactive dashboards on PowerBI
+- 💞️ I’m looking to collaborate on creating interactive dashboards on PowerBI
 - 📫 contact me on devansh.dp0403@gmail.com
 - 😄 Pronouns: He/Him
 
